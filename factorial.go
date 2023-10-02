@@ -13,7 +13,8 @@ import (
 	"fmt"
 )
 
-func main() {
+// func main() {
+	func facto() {
 	var num int
 	factorial := 1
 
