@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-func main(){
-// func ranges(){
+// func main(){
+func ranges(){
 
 // Range is used to iterate over arrays and slices
 
