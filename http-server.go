@@ -60,7 +60,8 @@ func person(w http.ResponseWriter, r *http.Request) {
     }
 }
 
-func main() {
+// func main() {
+func httpServer() {
 
     http.HandleFunc("/hello", helloWord)
     http.HandleFunc("/headers", headers)
